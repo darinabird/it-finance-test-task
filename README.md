@@ -11,18 +11,8 @@ To set up the project, follow the steps below:
 
 1. Clone the repository to your local machine.
 2. Open a terminal in the project's root directory.
-3. Run the command ```poetry shell``` to activate the virtual environment.
-4. Run the command ```poetry add``` to install the required packages.
-
-## Package Installation
-
-Before running the scripts, install the following Python packages:
-
-- Selenium
-- webdriver_manager
-- lxml
-
-To install the packages, run the command ```poetry add selenium webdriver_manager lxml```.
+3. Install poetry with the command ```pip install poetry```.
+4. Run the command ```poetry shell``` to activate the virtual environment.
 
 ## Running the Tasks
 
